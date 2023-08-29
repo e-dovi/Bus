@@ -4,6 +4,8 @@ This project simulates a bus tracking system by allowing the user to see the dif
 To run the project, the user needs to get an authentication key from mapbox api and give its value to the variable _mapboxgl.accessToken_.
 The next step is to open the _index.html_ file in a web browser.
 
+A future improvement to this project is to use an api that provides the live location of the bus.
+
 Copyright (c) 2023 elvis dovi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
